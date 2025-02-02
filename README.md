@@ -1,4 +1,4 @@
-## Developed by Soham Chakraborty | Shiva Shrestha
+## Developed by Shiva Shrestha | Soham
 # 🎥 Movie Recommendation System  
 
 ## Overview  
