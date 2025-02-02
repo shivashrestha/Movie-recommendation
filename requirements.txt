@@ -1,0 +1,6 @@
+python==3.10
+pandas
+neo4j
+pymongo
+redis
+streamlit
